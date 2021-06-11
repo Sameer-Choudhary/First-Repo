@@ -1,0 +1,28 @@
+.parent{
+    background-color: white;
+    display:flex;
+    gap:10px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.card{
+    background-color: red;
+    height: 350px;
+    width: 350px;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+h1{
+    color: white;
+}
+.header{
+    color:white;
+    background-color: blue;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+a{
+    color:snow
+}

@@ -1,0 +1,25 @@
+/*
+Mobile: Green [0-767px]
+Tablet: Blue [768px]
+Laptop: Red [1020px]
+PC: Brown [1400px]
+*/
+
+body{
+    background-color: green;
+}
+@media(min-width: 768px){
+    body{
+        background-color: blue;
+    }
+}
+@media(min-width: 1020px){
+    body{
+        background-color: Red;
+    }
+}
+@media(min-width: 1400px){
+    body{
+        background-color: brown;
+    }
+}

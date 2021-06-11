@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(78,78,245);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: white;
+    font-family: monospace;
+    font-size: 50px;
+}
+.Red{
+    color: red;
+}
+.Yellow{
+    color: yellow
+}
+h2{
+    color: #ffff;
+}
+button{
+    border: 2px dotted white;
+    background-color: coral;
+}
+p{
+    color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+}
+input[type="Text"]{
+    width: 100%;
+}
